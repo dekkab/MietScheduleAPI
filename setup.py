@@ -7,13 +7,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="miet-schedule-api",
-    version="0.1.1",
-    author="Deka",
-    author_email="dka@disroot.org",
+    version="0.1.2",
+    author="Dekka",
+    author_email="dka+pypi@disroot.org",
     description="Небольшая библиотека для получения расписания групп МИЭТ",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/TheDIMONDK/MietScheduleAPI",
+    url="https://github.com/dekkab/MietScheduleAPI",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

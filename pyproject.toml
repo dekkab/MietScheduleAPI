@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "miet-schedule-api"
-version = "0.1.1"
+version = "0.1.2"
 description = "Небольшая библиотека для получения расписания групп МИЭТ"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Deka", email = "dka@disroot.org"}
+    {name = "Dekka", email = "dka+pypi@disroot.org"}
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -22,6 +22,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/TheDIMONDK/MietScheduleAPI"
-Repository = "https://github.com/TheDIMONDK/MietScheduleAPI"
-Issues = "https://github.com/TheDIMONDK/MietScheduleAPI/issues"
+Homepage = "https://github.com/dekkab/MietScheduleAPI"
+Repository = "https://github.com/dekkab/MietScheduleAPI"
+Issues = "https://github.com/dekkab/MietScheduleAPI/issues"
