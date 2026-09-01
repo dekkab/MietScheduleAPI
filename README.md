@@ -66,7 +66,7 @@ pip install miet_schedule_api
 
 ### Установка из GitHub
 ```sh
-pip install git+https://github.com/TheDIMONDK/miet_schedule_api.git
+pip install git+https://github.com/TheDIMONDK/MietScheduleAPI.git
 ```
 
 ## Использование
