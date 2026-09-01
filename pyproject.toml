@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "miet-schedule-api"
+version = "0.1.0"
+description = "Небольшая библиотека для получения расписания групп МИЭТ"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Deka", email = "dka@disroot.org"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.6"
+dependencies = [
+    "requests>=2.25.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/TheDIMONDK/miet_schedule_api"
+Repository = "https://github.com/TheDIMONDK/miet_schedule_api"
+Issues = "https://github.com/TheDIMONDK/miet_schedule_api/issues"
