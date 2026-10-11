@@ -157,6 +157,3 @@ Thumbs.db
 
 # Dynamic generated files
 *.json
-
-# Other
-example.py
